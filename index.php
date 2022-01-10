@@ -1,1 +1,1 @@
-<?php echo 'This is new File Content'; 
+<?php echo 'This is new File Content'; ?>
